@@ -1,3 +1,5 @@
+# Inspiration: https://math.stackexchange.com/questions/501660/is-there-a-way-to-get-trig-functions-without-a-calculator
+
 import math
 
 def sine_term(theta, n):
